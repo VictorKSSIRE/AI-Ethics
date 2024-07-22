@@ -1,2 +1,2 @@
-# Artificial-Intelligence---Ethics
+# Artificial-Intelligence-Ethics
 Ethics of Group vs Individual Criteria
